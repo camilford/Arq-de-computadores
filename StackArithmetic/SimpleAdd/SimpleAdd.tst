@@ -15,4 +15,4 @@ repeat 60 {      // enough cycles to complete the execution
 }
 
 output;          // the stack pointer and the stack base
-© 2021 GitHub, Inc.
+
